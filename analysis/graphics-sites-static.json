@@ -1,0 +1,1508 @@
+{
+  "004BAD86": {
+    "method": "GetAdapterCount",
+    "offset": 16,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BAE55": {
+    "method": "GetAdapterIdentifier",
+    "offset": 20,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BAF5E": {
+    "method": "GetAdapterDisplayMode",
+    "offset": 32,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BB27C": {
+    "method": "GetDeviceCaps",
+    "offset": 52,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BB2A1": {
+    "method": "GetDeviceCaps",
+    "offset": 52,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BB2C5": {
+    "method": "GetAdapterModeCount",
+    "offset": 24,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BB38F": {
+    "method": "GetDeviceCaps",
+    "offset": 52,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BB3A2": {
+    "method": "GetAdapterModeCount",
+    "offset": 24,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BB496": {
+    "method": "EnumAdapterModes",
+    "offset": 28,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BB9F0": {
+    "method": "CheckDeviceFormat",
+    "offset": 40,
+    "arity": 7,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BBA8F": {
+    "method": "CheckDepthStencilMatch",
+    "offset": 48,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BBB4B": {
+    "method": "CheckDeviceFormat",
+    "offset": 40,
+    "arity": 7,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BBBE5": {
+    "method": "CheckDepthStencilMatch",
+    "offset": 48,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BBCA1": {
+    "method": "CheckDeviceFormat",
+    "offset": 40,
+    "arity": 7,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BBD3B": {
+    "method": "CheckDepthStencilMatch",
+    "offset": 48,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BBDF7": {
+    "method": "CheckDeviceFormat",
+    "offset": 40,
+    "arity": 7,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BBE91": {
+    "method": "CheckDepthStencilMatch",
+    "offset": 48,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BBF4D": {
+    "method": "CheckDeviceFormat",
+    "offset": 40,
+    "arity": 7,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BBFE7": {
+    "method": "CheckDepthStencilMatch",
+    "offset": 48,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BC09F": {
+    "method": "CheckDeviceFormat",
+    "offset": 40,
+    "arity": 7,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BC139": {
+    "method": "CheckDepthStencilMatch",
+    "offset": 48,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BC4AB": {
+    "method": "CreateDevice",
+    "offset": 60,
+    "arity": 7,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BC78D": {
+    "method": "GetAvailableTextureMem",
+    "offset": 16,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BCF49": {
+    "method": "Release",
+    "offset": 8,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BCF5D": {
+    "method": "Release",
+    "offset": 8,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004BD039": {
+    "method": "SetStreamSource",
+    "offset": 332,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BD082": {
+    "method": "SetIndices",
+    "offset": 340,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BD0CA": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BD145": {
+    "method": "Clear",
+    "offset": 144,
+    "arity": 7,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BD181": {
+    "method": "BeginScene",
+    "offset": 136,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BD242": {
+    "method": "EndScene",
+    "offset": 140,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BD271": {
+    "method": "TestCooperativeLevel",
+    "offset": 12,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BD297": {
+    "method": "Present",
+    "offset": 60,
+    "arity": 5,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BFBAA": {
+    "method": "TestCooperativeLevel",
+    "offset": 12,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BFCB3": {
+    "method": "Reset",
+    "offset": 56,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BFDB8": {
+    "method": "CreateVertexShader",
+    "offset": 300,
+    "arity": 5,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BD30B": {
+    "method": "ResourceManagerDiscardBytes",
+    "offset": 20,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BD480": {
+    "method": "ResourceManagerDiscardBytes",
+    "offset": 20,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BD742": {
+    "method": "ResourceManagerDiscardBytes",
+    "offset": 20,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BD929": {
+    "method": "ResourceManagerDiscardBytes",
+    "offset": 20,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BDD8C": {
+    "method": "ValidateDevice",
+    "offset": 256,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BE75A": {
+    "method": "GetDisplayMode",
+    "offset": 32,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BE790": {
+    "method": "GetFrontBuffer",
+    "offset": 120,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEA2A": {
+    "method": "SetViewport",
+    "offset": 160,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEA8D": {
+    "method": "SetMaterial",
+    "offset": 168,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEB18": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEB43": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEB71": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEB9D": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEBC4": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEBE7": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEC07": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEC2D": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEC67": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEC8A": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BECAD": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BECD0": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BECF7": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BED28": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BED51": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BED7A": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEDA3": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEDCC": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEDEA": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEE12": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEE35": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEE53": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEE7B": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEE9E": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEEC1": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEEDF": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BEFAB": {
+    "method": "SetTransform",
+    "offset": 148,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF00C": {
+    "method": "SetTextureStageState",
+    "offset": 252,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF02B": {
+    "method": "SetTextureStageState",
+    "offset": 252,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF046": {
+    "method": "SetTextureStageState",
+    "offset": 252,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF0B6": {
+    "method": "SetTextureStageState",
+    "offset": 252,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF101": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF125": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF149": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF18A": {
+    "method": "SetTransform",
+    "offset": 148,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF1EB": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF211": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF231": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF723": {
+    "method": "SetTextureStageState",
+    "offset": 252,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF747": {
+    "method": "SetTextureStageState",
+    "offset": 252,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF76B": {
+    "method": "SetTextureStageState",
+    "offset": 252,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF78F": {
+    "method": "SetTextureStageState",
+    "offset": 252,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF7B3": {
+    "method": "SetTextureStageState",
+    "offset": 252,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF7DD": {
+    "method": "SetTextureStageState",
+    "offset": 252,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF814": {
+    "method": "SetTextureStageState",
+    "offset": 252,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF83E": {
+    "method": "SetTexture",
+    "offset": 244,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF883": {
+    "method": "SetTexture",
+    "offset": 244,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF2C8": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF30A": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF431": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF489": {
+    "method": "SetTransform",
+    "offset": 148,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF4A7": {
+    "method": "SetTransform",
+    "offset": 148,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF4DC": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF50A": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF528": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF59B": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF5BE": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF5E2": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF60A": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF634": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF661": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF690": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF6B0": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF396": {
+    "method": "SetClipPlane",
+    "offset": 192,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BF3CD": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BFA6A": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BFA8A": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BFAAD": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BFAD0": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BFAF3": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BFB1D": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BFB40": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004BFB63": {
+    "method": "SetRenderState",
+    "offset": 200,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C0007": {
+    "method": "CreateVertexShader",
+    "offset": 300,
+    "arity": 5,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C009B": {
+    "method": "SetVertexShaderConstant",
+    "offset": 316,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C386B": {
+    "method": "SetTransform",
+    "offset": 148,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C3963": {
+    "method": "SetStreamSource",
+    "offset": 332,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C398F": {
+    "method": "SetVertexShader",
+    "offset": 304,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C39B1": {
+    "method": "SetVertexShader",
+    "offset": 304,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C3A28": {
+    "method": "SetTransform",
+    "offset": 148,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C3B21": {
+    "method": "SetStreamSource",
+    "offset": 332,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C3B4C": {
+    "method": "SetVertexShader",
+    "offset": 304,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C3B6E": {
+    "method": "SetVertexShader",
+    "offset": 304,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C3BA8": {
+    "method": "SetIndices",
+    "offset": 340,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C3C0A": {
+    "method": "SetTransform",
+    "offset": 148,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C3D01": {
+    "method": "SetStreamSource",
+    "offset": 332,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C3D7C": {
+    "method": "SetVertexShader",
+    "offset": 304,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C3DD8": {
+    "method": "SetTransform",
+    "offset": 148,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C3ED1": {
+    "method": "SetStreamSource",
+    "offset": 332,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C3F16": {
+    "method": "SetIndices",
+    "offset": 340,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C3FBC": {
+    "method": "DrawPrimitive",
+    "offset": 280,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C3FEA": {
+    "method": "DrawPrimitive",
+    "offset": 280,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C4072": {
+    "method": "DrawIndexedPrimitive",
+    "offset": 284,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C40EA": {
+    "method": "DrawIndexedPrimitive",
+    "offset": 284,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C4631": {
+    "method": "SetTransform",
+    "offset": 148,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C466E": {
+    "method": "SetVertexShader",
+    "offset": 304,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C4721": {
+    "method": "DrawPrimitiveUP",
+    "offset": 288,
+    "arity": 5,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C478A": {
+    "method": "SetVertexShader",
+    "offset": 304,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C4884": {
+    "method": "SetTransform",
+    "offset": 148,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C48A7": {
+    "method": "DrawPrimitiveUP",
+    "offset": 288,
+    "arity": 5,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C4EDA": {
+    "method": "CheckDeviceFormat",
+    "offset": 40,
+    "arity": 7,
+    "interfaces": [
+      "IDirect3D8"
+    ]
+  },
+  "004C5119": {
+    "method": "ResourceManagerDiscardBytes",
+    "offset": 20,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C5595": {
+    "method": "CreateTexture",
+    "offset": 80,
+    "arity": 8,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C57AE": {
+    "method": "GetAvailableTextureMem",
+    "offset": 16,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C634C": {
+    "method": "CreateVertexBuffer",
+    "offset": 92,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C636A": {
+    "method": "CreateIndexBuffer",
+    "offset": 96,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C7336": {
+    "method": "SetStreamSource",
+    "offset": 332,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C7370": {
+    "method": "SetIndices",
+    "offset": 340,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C73A6": {
+    "method": "SetVertexShader",
+    "offset": 304,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C73ED": {
+    "method": "DrawIndexedPrimitive",
+    "offset": 284,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C7451": {
+    "method": "SetStreamSource",
+    "offset": 332,
+    "arity": 4,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C748B": {
+    "method": "SetIndices",
+    "offset": 340,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C74C1": {
+    "method": "SetVertexShader",
+    "offset": 304,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C7508": {
+    "method": "DrawIndexedPrimitive",
+    "offset": 284,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C7ADB": {
+    "method": "CreateVertexBuffer",
+    "offset": 92,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C7CAE": {
+    "method": "CreateVertexBuffer",
+    "offset": 92,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C7F0C": {
+    "method": "CreateIndexBuffer",
+    "offset": 96,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C8160": {
+    "method": "CreateIndexBuffer",
+    "offset": 96,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C830A": {
+    "method": "CreateIndexBuffer",
+    "offset": 96,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004C842B": {
+    "method": "CreateIndexBuffer",
+    "offset": 96,
+    "arity": 6,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004CD719": {
+    "method": "SetTransform",
+    "offset": 148,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004CF514": {
+    "method": "LightEnable",
+    "offset": 184,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004CF652": {
+    "method": "LightEnable",
+    "offset": 184,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004CF884": {
+    "method": "SetLight",
+    "offset": 176,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004CFA5D": {
+    "method": "SetLight",
+    "offset": 176,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004CFC96": {
+    "method": "SetLight",
+    "offset": 176,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004CFDB2": {
+    "method": "LightEnable",
+    "offset": 184,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004CFE02": {
+    "method": "LightEnable",
+    "offset": 184,
+    "arity": 3,
+    "interfaces": [
+      "IDirect3DDevice8"
+    ]
+  },
+  "004CAA30": {
+    "method": "Release",
+    "offset": 8,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3DVertexBuffer8",
+      "IDirect3DIndexBuffer8"
+    ]
+  },
+  "004CAA45": {
+    "method": "Release",
+    "offset": 8,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3DVertexBuffer8",
+      "IDirect3DIndexBuffer8"
+    ]
+  },
+  "004CAB22": {
+    "method": "Lock",
+    "offset": 44,
+    "arity": 5,
+    "interfaces": [
+      "IDirect3DVertexBuffer8"
+    ]
+  },
+  "004CAB3E": {
+    "method": "Lock",
+    "offset": 44,
+    "arity": 5,
+    "interfaces": [
+      "IDirect3DVertexBuffer8"
+    ]
+  },
+  "004CAB69": {
+    "method": "Unlock",
+    "offset": 48,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3DVertexBuffer8"
+    ]
+  },
+  "004CAB73": {
+    "method": "Unlock",
+    "offset": 48,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3DVertexBuffer8"
+    ]
+  },
+  "004CAB93": {
+    "method": "GetDesc",
+    "offset": 52,
+    "arity": 2,
+    "interfaces": [
+      "IDirect3DIndexBuffer8"
+    ]
+  },
+  "004CABAB": {
+    "method": "Lock",
+    "offset": 44,
+    "arity": 5,
+    "interfaces": [
+      "IDirect3DIndexBuffer8"
+    ]
+  },
+  "004CABC5": {
+    "method": "Lock",
+    "offset": 44,
+    "arity": 5,
+    "interfaces": [
+      "IDirect3DIndexBuffer8"
+    ]
+  },
+  "004CABEB": {
+    "method": "Unlock",
+    "offset": 48,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3DIndexBuffer8"
+    ]
+  },
+  "004CABF5": {
+    "method": "Unlock",
+    "offset": 48,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3DIndexBuffer8"
+    ]
+  },
+  "004CABFF": {
+    "method": "Release",
+    "offset": 8,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3DVertexBuffer8"
+    ]
+  },
+  "004CAC09": {
+    "method": "Release",
+    "offset": 8,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3DIndexBuffer8"
+    ]
+  },
+  "004C7220": {
+    "method": "Lock",
+    "offset": 44,
+    "arity": 5,
+    "interfaces": [
+      "IDirect3DVertexBuffer8"
+    ]
+  },
+  "004C72FE": {
+    "method": "Unlock",
+    "offset": 48,
+    "arity": 1,
+    "interfaces": [
+      "IDirect3DVertexBuffer8"
+    ]
+  }
+}

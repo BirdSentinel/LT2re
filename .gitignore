@@ -1,0 +1,13 @@
+/.venv/
+/build/
+/dist/
+/src/generated/
+/analysis/functions.json
+/analysis/pe.json
+/tools/SDL3*/
+/tools/SDL3*.zip
+/tools/vulkan/
+/tools/llvm/
+__pycache__/
+*.pyc
+*.log
